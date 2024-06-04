@@ -1,0 +1,52 @@
+# IDE and OS specific files
+# Created by various IDEs for project management
+.idea/
+.vscode/
+.DS_Store*
+Thumbs.db
+
+# Build output and temporary folders
+node_modules/
+bower_components/
+dist/
+build/
+target/
+.tmp/
+
+# Package managers
+package-lock.json
+npm-shrinkwrap.json
+yarn.lock
+
+# Specific file extensions
+*.log
+*.psd
+*.xcf
+
+# Local development configuration
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Text editor backups and temporary files
+*.swp
+*.swo
+
+# Drafts and notes 
+*.md
+
+# Testing frameworks (uncomment if needed)
+# jest/ .cache/
+# .nyc_output/
+
+# Version control noise
+.git/logs
+.git/ignore
+.gitattributes
+
+# Coverage reports
+coverage/
+
+# Local history (uncomment if needed)
+!.gitignore

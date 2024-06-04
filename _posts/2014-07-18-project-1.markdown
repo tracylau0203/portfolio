@@ -2,24 +2,14 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: NLP.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Natural Language Processing (NLP)
-description: 'NLP: Sentiment analysis (Movie review) 
-    - Problem Statement: This project aims to determine the sentiment of movie reviews by identifying the words and phrases that contribute most to positive or negative attitudes.
-    - Methodology:
-        - The model was designed to learn the semantic associations and patterns in the text that drive these sentiments. Techniques such as tokenization, word embeddings, and sentiment classification were employed to build a robust sentiment analysis model.
-        
-        Architecture: Flatten, LSTM, GRU, and Conv1D
-        
-        - **Data Collection:** A dataset of movie reviews with labeled sentiment (positive or negative) is used. [IMDB Reviews dataset](https://www.google.com/url?q=https%3A%2F%2Fwww.tensorflow.org%2Fdatasets%2Fcatalog%2Fimdb_reviews)
-        - **Preprocessing:** Reviews are cleaned and formatted for neural network processing.
-        - **Neural Network Model:** A neural network is trained on the labeled dataset to learn the relationship between words and sentiment.
-        - **Analysis:** The trained model is used to identify the words that have the strongest influence on the predicted sentiment.
-        - Model Evaluation: Accuracy rate, loss rate
-    - Wider application or Broader Impact:
-        - Social Media Analysis: Analyze customer sentiment towards brands or products.
-        - App Store Reviews: Identify key strengths and areas for improvement by evaluating user ratings and reviews.'
+description: 
+<p> lien1 </p>
+<p>line2</p>
 ---
+<p> lien1A </p>
+<p>line2B</p>
