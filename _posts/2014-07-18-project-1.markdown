@@ -11,5 +11,3 @@ description:
 <p> lien1 </p>
 <p>line2</p>
 ---
-<p> lien1A </p>
-<p>line2B</p>
